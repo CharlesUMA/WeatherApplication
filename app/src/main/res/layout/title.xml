@@ -11,7 +11,7 @@
         android:layout_marginLeft="10dp"
         android:layout_alignParentLeft="true"
         android:layout_alignBottom="@+id/title_city"
-        android:background="@drawable/icon_search"/>
+        android:background="@drawable/circle_mail"/>
 
     <TextView
         android:id="@+id/title_city"
